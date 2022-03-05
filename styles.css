@@ -15,5 +15,15 @@ body {
 
 .contact-img {
     width: 1000px;
-    margin: auto;
+    position: relative;
+    top: -180px;
+    left: 17%;
+}
+
+.ping {
+    position: relative;
+    top: -250px;
+    left: 12.5%;
+    font-size: 3rem;
+    font-family: 'Rancho', cursive;
 }
