@@ -1,0 +1,19 @@
+body {
+    font-family: 'Kranky', cursive;
+}
+
+.tv {
+    font-size: 4rem;
+    font-weight: 100;
+    margin-left: 15px;
+}
+
+.big {
+    font-size: 2.5rem;
+    margin-right: 20px;
+}
+
+.contact-img {
+    width: 1000px;
+    margin: auto;
+}
