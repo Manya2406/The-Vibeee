@@ -20,6 +20,33 @@ body {
     left: 17%;
 }
 
+.pri-img{
+  position: relative;
+  width: 129px;
+  height: 237px;
+}
+
+.vansh-img{
+  position: relative;
+  width: 147px;
+  height: 251px;
+}
+
+
+.hima-img{
+  position: relative;
+width: 108px;
+height: 232px;
+}
+
+
+.manya-img{
+  position: relative;
+width: 116px;
+height: 222px;
+}
+
+
 .ping {
     position: relative;
     top: -250px;
