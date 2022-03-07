@@ -14,38 +14,16 @@ body {
 }
 
 .contact-img {
-    width: 1000px;
+    width: 1200px;
     position: relative;
-    top: -180px;
+    /* top: -180px; */
     left: 17%;
 }
 
-.pri-img{
-  position: relative;
-  width: 129px;
-  height: 237px;
+.vibe-img {
+    width: 50%;
+    margin-left: 5%;
 }
-
-.vansh-img{
-  position: relative;
-  width: 147px;
-  height: 251px;
-}
-
-
-.hima-img{
-  position: relative;
-width: 108px;
-height: 232px;
-}
-
-
-.manya-img{
-  position: relative;
-width: 116px;
-height: 222px;
-}
-
 
 .ping {
     position: relative;
