@@ -14,10 +14,9 @@ body {
 }
 
 .contact-img {
-    width: 1200px;
-    position: relative;
-    /* top: -180px; */
-    left: 17%;
+    width: 70%;
+    margin-top: 2%;
+    margin-left: 15%;
 }
 
 .vibe-img {
